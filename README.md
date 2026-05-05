@@ -52,7 +52,7 @@ Through this project, I explored:
 
 ## 📸 Example Output
 
-(Add your screenshot here)
+![Output](output.png)
 
 ---
 
